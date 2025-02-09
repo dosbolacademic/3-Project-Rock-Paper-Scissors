@@ -69,3 +69,4 @@ const playGame=  () =>{
     }
     
 }
+console.log(playGame())
